@@ -1,0 +1,1 @@
+La unidad 2 se nos introdujo al lenguaje de js parar empezar a programar utilizando lo que es prompt para leer texto del teclado (input) y alert para desplegar texto(output) además de el uso de condicionales como : if, else if y else. además de también el uso de los ciclos como: while y for.

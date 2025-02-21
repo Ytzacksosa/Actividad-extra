@@ -1,0 +1,1 @@
+La unidad 1 se centro en explicar el uso de los algoritmos dentro de la vida cotidiana, para poder introducir como es que un programador debe de pensar al momento de empezar su código, y que los algoritmos son para solucionar un problema como tal, cada persona tiene diferentes maneras de afrontar un problema, por ende cada código es diferente entre personas.

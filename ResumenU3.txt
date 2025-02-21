@@ -1,0 +1,1 @@
+La unidad 3 se encargo de enseñarnos a utilizar los repositorios locales y remotos, como el caso de GitHub, donde es la plataforma mas utilizada para contolar versiones de programas, además de enseñar como se utiliza la consola de git para poder subir archivos locales al repositorio remoto
